@@ -1,0 +1,8 @@
+/home/developer/repos/cpp/salix_nanshe/build/CMakeFiles/edit_cache.dir
+/home/developer/repos/cpp/salix_nanshe/build/CMakeFiles/rebuild_cache.dir
+/home/developer/repos/cpp/salix_nanshe/build/src/daemon/CMakeFiles/nanshe-d.dir
+/home/developer/repos/cpp/salix_nanshe/build/src/daemon/CMakeFiles/edit_cache.dir
+/home/developer/repos/cpp/salix_nanshe/build/src/daemon/CMakeFiles/rebuild_cache.dir
+/home/developer/repos/cpp/salix_nanshe/build/src/client/CMakeFiles/nanshe-cli.dir
+/home/developer/repos/cpp/salix_nanshe/build/src/client/CMakeFiles/edit_cache.dir
+/home/developer/repos/cpp/salix_nanshe/build/src/client/CMakeFiles/rebuild_cache.dir

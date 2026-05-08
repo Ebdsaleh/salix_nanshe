@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/home/developer/repos/cpp/salix_nanshe/build/src/daemon",
+  "command": "/usr/bin/c++  -I/home/developer/repos/cpp/salix_nanshe/src -I/home/developer/repos/cpp/salix_nanshe/vendor/llama-cpp/include -I/home/developer/repos/cpp/salix_nanshe/vendor/llama-cpp/ggml/include -I/home/developer/repos/cpp/salix_nanshe/vendor/llama-cpp/common -std=gnu++17 -Wall -Wextra -Wpedantic -Werror -o CMakeFiles/nanshe-d.dir/main.cpp.o -c /home/developer/repos/cpp/salix_nanshe/src/daemon/main.cpp",
+  "file": "/home/developer/repos/cpp/salix_nanshe/src/daemon/main.cpp",
+  "output": "src/daemon/CMakeFiles/nanshe-d.dir/main.cpp.o"
+},
+{
+  "directory": "/home/developer/repos/cpp/salix_nanshe/build/src/daemon",
+  "command": "/usr/bin/c++  -I/home/developer/repos/cpp/salix_nanshe/src -I/home/developer/repos/cpp/salix_nanshe/vendor/llama-cpp/include -I/home/developer/repos/cpp/salix_nanshe/vendor/llama-cpp/ggml/include -I/home/developer/repos/cpp/salix_nanshe/vendor/llama-cpp/common -std=gnu++17 -Wall -Wextra -Wpedantic -Werror -o CMakeFiles/nanshe-d.dir/__/platform/openbsd/OpenBSD_Daemon.cpp.o -c /home/developer/repos/cpp/salix_nanshe/src/platform/openbsd/OpenBSD_Daemon.cpp",
+  "file": "/home/developer/repos/cpp/salix_nanshe/src/platform/openbsd/OpenBSD_Daemon.cpp",
+  "output": "src/daemon/CMakeFiles/nanshe-d.dir/__/platform/openbsd/OpenBSD_Daemon.cpp.o"
+},
+{
+  "directory": "/home/developer/repos/cpp/salix_nanshe/build/src/daemon",
+  "command": "/usr/bin/c++  -I/home/developer/repos/cpp/salix_nanshe/src -I/home/developer/repos/cpp/salix_nanshe/vendor/llama-cpp/include -I/home/developer/repos/cpp/salix_nanshe/vendor/llama-cpp/ggml/include -I/home/developer/repos/cpp/salix_nanshe/vendor/llama-cpp/common -std=gnu++17 -Wall -Wextra -Wpedantic -Werror -o CMakeFiles/nanshe-d.dir/__/engine/llama/Llama_Engine.cpp.o -c /home/developer/repos/cpp/salix_nanshe/src/engine/llama/Llama_Engine.cpp",
+  "file": "/home/developer/repos/cpp/salix_nanshe/src/engine/llama/Llama_Engine.cpp",
+  "output": "src/daemon/CMakeFiles/nanshe-d.dir/__/engine/llama/Llama_Engine.cpp.o"
+},
+{
+  "directory": "/home/developer/repos/cpp/salix_nanshe/build/src/client",
+  "command": "/usr/bin/c++  -I/home/developer/repos/cpp/salix_nanshe/src -I/home/developer/repos/cpp/salix_nanshe/vendor/llama-cpp/include -I/home/developer/repos/cpp/salix_nanshe/vendor/llama-cpp/ggml/include -I/home/developer/repos/cpp/salix_nanshe/vendor/llama-cpp/common -std=gnu++17 -Wall -Wextra -Wpedantic -Werror -o CMakeFiles/nanshe-cli.dir/main.cpp.o -c /home/developer/repos/cpp/salix_nanshe/src/client/main.cpp",
+  "file": "/home/developer/repos/cpp/salix_nanshe/src/client/main.cpp",
+  "output": "src/client/CMakeFiles/nanshe-cli.dir/main.cpp.o"
+}
+]

@@ -1,0 +1,1 @@
+/usr/bin/c++ -Xlinker --dependency-file=CMakeFiles/nanshe-cli.dir/link.d "CMakeFiles/nanshe-cli.dir/main.cpp.o" -o nanshe-cli  -Wl,-rpath-link,/usr/X11R6/lib:/usr/local/lib

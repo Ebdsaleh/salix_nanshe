@@ -1,0 +1,24 @@
+salix_nanshe/
+├── src/
+│   ├── core/               # "The Laws": Pure Virtual Interfaces
+│   │   ├── IDaemon.h    # Contract for service lifecycle
+│   │   ├── IClient.h    # Contract for user interaction
+│   │   └── IEengine.h    # Contract for the AI/ALU brain
+│   │
+│   ├── platform/           # "The How": OS-Domain Specifics
+│   │   ├── openbsd/        # kqueue, pledge, unveil implementations
+│   │   ├── freebsd/        # Capsicum, event logic
+│   │   └── windows/        # IOCP, Windows Service logic
+│   │
+│   ├── engine/             # "The Brains": Compute Backends
+│   │   ├── llama/          # Current llama-cpp adapter
+│   │   └── sumerian/       # Future bespoke SPU/ALU implementation
+│   │
+│   ├── daemon/             # Entry point for the service
+│   │   └── main.cpp        # High-level orchestration
+│   │
+│   └── client/             # Entry point for the CLI tool
+│       └── main.cpp        # High-level bridge logic
+│
+├── vendor/                 # External libraries (llama.cpp)
+└── build/                  # CMake output (ignored by git)
